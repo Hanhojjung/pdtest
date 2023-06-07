@@ -5,6 +5,7 @@ import { NavLink } from "react-router-dom";
 const categories = [
   { name: "food", text: "부산맛집정보 서비스" },
   { name: "walking", text: "부산도보여행 정보 서비스" },
+  { name: "place", text: "부산명소 정보 서비스" }
 ];
  
 const CategoriesBlock = styled.div`
